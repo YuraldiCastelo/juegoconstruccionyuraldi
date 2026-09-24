@@ -2,6 +2,11 @@ import tkinter as tk
 from tkinter import messagebox
 import random
 
+# Módulo principal del Juego del Ahorcado
+# Desarrollado para la Guía de Laboratorio 05-A
+# Asignatura: Construcción de Software
+#ESTUDIANTE: Yuraldi Castelo Torre
+
 class JuegoAhorcado:
     def __init__(self, ventana):
         self.ventana = ventana
